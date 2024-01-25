@@ -17,12 +17,6 @@ NavbarX is a responsive website featuring a modern and user-friendly navigation 
   - Contact
   - Feedback
 
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/CHAN230/NavbarX.git
-
 ## Screenshot
 
 ![Screenshot 2024-01-25 202550](https://github.com/CHAN230/PRODIGY_WD_01/assets/157637665/7269080f-0af6-4237-8586-f45c585ca4c2)
